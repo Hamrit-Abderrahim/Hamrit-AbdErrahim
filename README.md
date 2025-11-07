@@ -36,7 +36,7 @@ My personal repository
 <h1>:hammer_and_wrench: My App :</h1>
 <div>
   <a href="https://play.google.com/store/apps/details?id=at.lokInvest.Residanat&pcampaignid=web_share/">
-    <img src="https://play-lh.googleusercontent.com/rHRTxsCqJcChi2_5FFO54K-fd-qGwlG-sQspsTbUGGVeHj3LdrlxpiYZY8Wj9cDzAg=w480-h960-rw"/>
+    <img src="https://play-lh.googleusercontent.com/rHRTxsCqJcChi2_5FFO54K-fd-qGwlG-sQspsTbUGGVeHj3LdrlxpiYZY8Wj9cDzAg=w480-h960-rw" width="40" height="40/>
   </a>
   
 </div>
