@@ -35,9 +35,9 @@ My personal repository
 </div>
 <h1>:hammer_and_wrench: My App :</h1>
 <div>
- <a href="https://play.google.com/store/apps/details?id=at.lokInvest.Residanat"></a>
- <a href="[https://www.facebook.com/profile.php?id=100089102381381](https://play.google.com/store/apps/details?id=at.lokInvest.Residanat&pcampaignid=web_share)"></a>
- <a href="[https://www.facebook.com/profile.php?id=100089102381381](https://play.google.com/store/apps/details?id=at.lokInvest.Residanat&pcampaignid=web_share)"></a>
+  <a href="https://play.google.com/store/apps/details?id=at.lokInvest.Residanat/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
   
 </div>
 
