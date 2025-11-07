@@ -6,7 +6,6 @@ My personal repository
 <h1>:woman_technologist: About Me :</h1>
 :arrow_right: Flutter Developer :computer: <br>
 :arrow_right: aeronautical engineer :airplane:
-
  <hr>
 <h1>Contact with me on</h1>
 <div id="badges">
@@ -22,7 +21,6 @@ My personal repository
     <img src="https://img.shields.io/badge/whatsapp-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </div>
-
 <hr>
 <h1>:hammer_and_wrench: Languages and Tools :</h1>
 <div>
