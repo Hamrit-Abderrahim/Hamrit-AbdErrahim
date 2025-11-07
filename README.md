@@ -39,10 +39,10 @@ My personal repository
     <img src="https://play-lh.googleusercontent.com/rHRTxsCqJcChi2_5FFO54K-fd-qGwlG-sQspsTbUGGVeHj3LdrlxpiYZY8Wj9cDzAg=w300-h60-rw" />
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.lokinvest.kouki&pcampaignid=web_share/">
-    <img src="https://play-lh.googleusercontent.com/auiY3UK_lqwD94OuXk3NHeyGwdTB3fZqpbDQqf7MhDeMPa2l1jMcf5Y3ykAVoK3yxg=w480-h100-rw" />
+    <img src="https://play-lh.googleusercontent.com/auiY3UK_lqwD94OuXk3NHeyGwdTB3fZqpbDQqf7MhDeMPa2l1jMcf5Y3ykAVoK3yxg=w100-h60-rw" />
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.rahim.khadamat_dz&pcampaignid=web_share">
-    <img src="https://play-lh.googleusercontent.com/VGdg98h8oUgI_zAYjxeU16mOFT6m0JpifV2E9GC-cRS72NbWeHqpLPtrcrtvJqvZYqg=w480-h100-rw" />
+    <img src="https://play-lh.googleusercontent.com/VGdg98h8oUgI_zAYjxeU16mOFT6m0JpifV2E9GC-cRS72NbWeHqpLPtrcrtvJqvZYqg=w100-h60-rw" />
   </a>
   
 </div>
