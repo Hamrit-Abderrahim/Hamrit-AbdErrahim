@@ -35,7 +35,7 @@ My personal repository
 </div>
 <h1>:hammer_and_wrench: My App :</h1>
 <div>
-  :arrow_right: Resilux : <br> <a href="[https://www.facebook.com/profile.php?id=100089102381381](https://play.google.com/store/apps/details?id=at.lokInvest.Residanat&pcampaignid=web_share)">
+  :arrow_right: Resilux : <a href="[https://www.facebook.com/profile.php?id=100089102381381](https://play.google.com/store/apps/details?id=at.lokInvest.Residanat&pcampaignid=web_share)">
   </a>
   
 </div>
